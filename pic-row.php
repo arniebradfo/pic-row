@@ -8,8 +8,9 @@ Plugin Name: Picture Row
 Plugin URI: http://codepen.io/arniebradfo/pen/fwmLq
 Description: adds js and short codes for fitting images into a row.
 Author: Arnie Bradfo
+Author URI: polaris.graphics
 Version: 0.1
-Author URI: 
+GitHub Plugin URI: https://github.com/arniebradfo/pic-row
 */
 
 
